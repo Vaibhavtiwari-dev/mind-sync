@@ -61,7 +61,7 @@
 1.  **Clone the repo**
 
     ```bash
-    git clone https://github.com/Vaibhavtiwari-dev/Mind-Sync.git
+    git clone https://github.com/Vaibhavtiwari-dev/mind-sync.git
     cd mind-sync
     ```
 
